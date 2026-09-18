@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# local environment / caches
+.venv/
+__pycache__/
+*.pyc
+
+# run-time output
+data/crash_log.txt
+data/fetch_log.txt
+data/*.png
+data/screenshot_*.png
+frames/
+
+# large scratch files
+scoping/*.obj

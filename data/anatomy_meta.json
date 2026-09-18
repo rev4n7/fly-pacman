@@ -1,0 +1,49 @@
+{
+  "dataset": "male-cns:v1.0",
+  "bin_voxels": 400,
+  "width": 250,
+  "height": 140,
+  "x_range": [
+    0,
+    100000
+  ],
+  "y_range": [
+    2000,
+    58000
+  ],
+  "view": "from behind the head; fly's left on image left",
+  "labels": {
+    "lobula": [
+      73,
+      71
+    ],
+    "AOTU": [
+      86,
+      34
+    ],
+    "PVLP": [
+      169,
+      60
+    ],
+    "AMMC (hearing)": [
+      149,
+      87
+    ],
+    "GNG": [
+      128,
+      94
+    ],
+    "medulla": [
+      207,
+      82
+    ],
+    "LAL": [
+      109,
+      56
+    ]
+  },
+  "missing_meshes": [],
+  "neurons_with_footprint": 1745,
+  "synapses_placed": 12740732,
+  "seconds": 120.4
+}
