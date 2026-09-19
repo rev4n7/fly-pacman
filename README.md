@@ -2,6 +2,8 @@
 
 ### A fruit fly plays Pac-Man by itself, using a brain built from a real fly's wiring diagram.
 
+[![Watch the 28-second Fly-Pacman reveal video](docs/reveal_thumbnail.png)](docs/fly-pacman-reveal.mp4)
+
 ![Fly-Pacman: the maze on the left, the fly's brain lighting up in the middle, its eyes and escape reflex on the right](docs/screenshot.png)
 
 ---
